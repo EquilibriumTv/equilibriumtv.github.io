@@ -8,7 +8,7 @@ Instruções para a adição deste repo:
   <ul>
     <li>Ir para o Kodi gestor de ficheiros.</li>
     <li>Clicar em "Adicionar fonte"</li>
-    <li>O endereço para a fonte é <code>LINK</code> (Dar o nome de "Repositorio Equilibrium").</li>
+    <li>O endereço para a fonte é <code>https://equilibriumtv.github.io/</code> (Dar o nome de "Repositorio Equilibrium").</li>
     <li>Ir para "Addons"</li>
     <li>Em Addons, instalar de um ficheiro zip. Quando perguntar pela localização, selecionar "Equilibrium Repo", e instalar <a href="repository.equilibrium-1.0.1.zip">repository.equilibrium-1.0.0.zip</a>.</li>
     <li>Voltar para Addons,mas desta vez, selecionar "Instalar do repositório"</li>
